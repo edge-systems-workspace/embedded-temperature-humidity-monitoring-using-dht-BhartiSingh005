@@ -70,5 +70,5 @@ void loop() {
 
     // TODO 11:
     // Add a 2-second delay before next reading
-    delay(100);
+    delay(500);
 }
